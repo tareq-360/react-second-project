@@ -10,8 +10,8 @@ function App() {
     <>
       <header>
         <NavBar></NavBar>
-        <DaisyNav></DaisyNav>
-        <h2>React+DaisyUI</h2>
+        {/* <DaisyNav></DaisyNav> */}
+        
       </header>
       <main>
 
