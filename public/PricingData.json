@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 3000,
+    "duration": "1 Month",
+    "description": "Perfect for beginners who want to learn CCTV basics.",
+    "features": [
+      "Introduction to CCTV systems",
+      "Camera types & uses",
+      "Basic wiring & installation",
+      "Live demo practice",
+      "1 Project Work",
+      "Certificate (Basic)"
+    ],
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 6000,
+    "duration": "2 Months",
+    "description": "Best for students who want hands-on practical experience.",
+    "features": [
+      "Everything in Basic Plan",
+      "DVR & NVR configuration",
+      "IP Camera setup",
+      "Mobile remote viewing setup",
+      "Troubleshooting techniques",
+      "3 Practical Projects",
+      "Certificate (Standard)"
+    ],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Advanced Plan",
+    "price": 10000,
+    "duration": "3 Months",
+    "description": "Complete professional training for career-ready skills.",
+    "features": [
+      "Everything in Standard Plan",
+      "Advanced networking (IP, Port Forwarding)",
+      "Cloud storage setup",
+      "Commercial CCTV setup training",
+      "Real client project experience",
+      "Job placement support",
+      "Certificate (Advanced)"
+    ],
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "Professional Plan",
+    "price": 15000,
+    "duration": "4 Months",
+    "description": "Full professional package with business & freelancing guidance.",
+    "features": [
+      "Everything in Advanced Plan",
+      "Freelancing guidance (Fiverr/Upwork)",
+      "Business setup training",
+      "Advanced troubleshooting",
+      "Unlimited project practice",
+      "Internship opportunity",
+      "Premium Certificate"
+    ],
+    "popular": false
+  }
+]

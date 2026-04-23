@@ -37,7 +37,7 @@ const NavBar = () => {
         console.log("sign in clicked");
     }
     return (
-        <nav className=' flex justify-between mx-6'>
+        <nav className=' flex justify-between mx-6 mt-5'>
             <span className='flex gap-3' onClick={() => setMenuOpen(!menuOpen)}>
                 {menuOpen ? <X className='md:hidden'></X> : <Menu className='md:hidden'></Menu>}
 
